@@ -1,4 +1,5 @@
 ## Introduction
+**The Python code of minimizing the ratio of quadratic functions over an ellipsoid**
 ### RQ.ipynb
 1. Bisection search for Lagrange optimal multiplier of RQ problem
 2. the subproblem of Bisection Method can be solved by Minimum eigenvalue prlblem
